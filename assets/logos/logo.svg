@@ -1,6 +1,165 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="53" height="52" viewBox="-10 -10 53 52">
-  <g fill="#05BF85" fill-rule="evenodd">
-    <path d="M20.14 2.13L33 10l-1 2-6.65-3.08a12.99 12.99 0 0 1-3 13.1l1.65 9.3c.07.38-.2.68-.57.68h-.74a.86.86 0 0 1-.81-.68l-1.36-7.71A12.93 12.93 0 0 1 14 25.96v5.34a.7.7 0 0 1-.7.7h-.6a.7.7 0 0 1-.7-.7v-5.34a12.93 12.93 0 0 1-6.5-2.35l-1.37 7.71a.86.86 0 0 1-.81.68h-.73a.56.56 0 0 1-.58-.68l1.64-9.29a13 13 0 0 1 16.49-19.9zM13 24a11 11 0 1 0 0-22 11 11 0 0 0 0 22z"/>
-    <path fill-opacity=".44" d="M13 24a11 11 0 0 0 11-11s-22-.1-22 0a11 11 0 0 0 11 11z"/>
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="500"
+   height="250"
+   viewBox="0 0 468.75 234.375"
+   id="svg2"
+   version="1.1"
+   inkscape:version="0.92.3 (2405546, 2018-03-11)"
+   sodipodi:docname="logo.svg"
+   inkscape:export-filename="C:\Bitnami\wampstack-7.0.16-0\apache2\htdocs\blog\wp-content\themes\rindby\img\logo.png"
+   inkscape:export-xdpi="31.3029"
+   inkscape:export-ydpi="31.3029">
+  <title
+     id="title4148">Logo Juoli Systems</title>
+  <defs
+     id="defs4" />
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="0.10588235"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="2"
+     inkscape:cx="334.60946"
+     inkscape:cy="117.28639"
+     inkscape:document-units="px"
+     inkscape:current-layer="layer1"
+     showgrid="false"
+     inkscape:window-width="1920"
+     inkscape:window-height="1027"
+     inkscape:window-x="-8"
+     inkscape:window-y="-8"
+     inkscape:window-maximized="1"
+     inkscape:snap-grids="true"
+     showborder="true"
+     inkscape:showpageshadow="false"
+     inkscape:snap-text-baseline="false"
+     showguides="true"
+     inkscape:guide-bbox="true"
+     units="px">
+    <sodipodi:guide
+       position="234.375,117.1875"
+       orientation="0,1"
+       id="guide3697"
+       inkscape:locked="false"
+       inkscape:label=""
+       inkscape:color="rgb(0,0,255)" />
+    <sodipodi:guide
+       position="234.375,225"
+       orientation="0,1"
+       id="guide3699"
+       inkscape:locked="false"
+       inkscape:label=""
+       inkscape:color="rgb(0,0,255)" />
+    <sodipodi:guide
+       position="234.375,9.375"
+       orientation="0,1"
+       id="guide3701"
+       inkscape:locked="false"
+       inkscape:label=""
+       inkscape:color="rgb(0,0,255)" />
+    <sodipodi:guide
+       position="234.375,117.1875"
+       orientation="1,0"
+       id="guide3703"
+       inkscape:locked="false" />
+    <sodipodi:guide
+       position="18.75,117.1875"
+       orientation="1,0"
+       id="guide3705"
+       inkscape:locked="false"
+       inkscape:label=""
+       inkscape:color="rgb(0,0,255)" />
+    <sodipodi:guide
+       position="450,117.1875"
+       orientation="1,0"
+       id="guide3707"
+       inkscape:locked="false"
+       inkscape:label=""
+       inkscape:color="rgb(0,0,255)" />
+    <sodipodi:guide
+       position="401.41967,28.125"
+       orientation="0,1"
+       id="guide3709"
+       inkscape:locked="false"
+       inkscape:label=""
+       inkscape:color="rgb(0,0,255)" />
+  </sodipodi:namedview>
+  <metadata
+     id="metadata7">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title>Logo Juoli Systems</dc:title>
+        <dc:date>15/04/2016</dc:date>
+        <dc:creator>
+          <cc:Agent>
+            <dc:title>Léo Juoli</dc:title>
+          </cc:Agent>
+        </dc:creator>
+        <dc:language>pt_BR</dc:language>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:label="Camada 1"
+     inkscape:groupmode="layer"
+     id="layer1"
+     transform="translate(0,-817.9872)">
+    <path
+       inkscape:connector-curvature="0"
+       id="path4156"
+       style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:medium;line-height:125%;font-family:Aharoni;-inkscape-font-specification:'Aharoni Bold';letter-spacing:0px;word-spacing:0px;fill:#555555;fill-opacity:1;stroke:none;stroke-width:1.08610535px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="m 200.75906,979.27107 c 0,20.48805 -9.69027,34.09393 -29.07082,40.81783 -8.06864,2.7686 -17.91712,4.1528 -29.54542,4.1528 -22.86116,0 -39.27531,-5.6163 -49.242447,-16.8491 -6.328343,-7.1194 -9.492514,-16.49321 -9.492514,-28.12153 v -69.88866 h 28.494271 v 62.4134 c 0,6.88196 5.04899,11.66422 9.9755,15.18797 5.67368,4.05817 13.93683,5.22076 20.26519,5.22076 6.24922,0 14.50682,-1.18086 20.14647,-5.22076 4.924,-3.52725 9.97552,-8.30601 9.97552,-15.18797 v -62.4134 h 28.49425 z"
+       sodipodi:nodetypes="scscsccsasasccs" />
+    <path
+       style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:medium;line-height:125%;font-family:Aharoni;-inkscape-font-specification:'Aharoni Bold';letter-spacing:0px;word-spacing:0px;fill:#555555;fill-opacity:1;stroke:none;stroke-width:1.08610535px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="m 276.88501,914.64823 c -21.2066,0 -37.5556,6.92274 -49.04868,20.76864 -9.49107,11.47007 -14.23605,24.61884 -14.23605,39.44788 0,16.46762 4.70669,30.35615 14.12362,41.66245 11.41895,13.7639 27.43616,20.6456 48.04955,20.6456 20.53925,0 36.51818,-6.8817 47.93713,-20.6456 9.41692,-11.3063 14.12573,-24.86594 14.12573,-40.67818 0,-15.64831 -4.74497,-29.12595 -14.23604,-40.43215 -11.64139,-13.8459 -27.21411,-20.76864 -46.71526,-20.76864 z m -0.56638,29.71718 c 10.0416,0 18.059,3.56342 24.05341,10.693 4.88718,5.82183 7.33121,12.76369 7.33121,20.82137 0,8.14208 -2.42495,15.12252 -7.27393,20.94432 -5.87989,7.0874 -14.10731,10.6315 -24.68345,10.6315 -10.61431,0 -18.86082,-3.5441 -24.74071,-10.6315 -4.84899,-5.8218 -7.27394,-12.97229 -7.27394,-21.45184 0,-7.63582 2.44404,-14.40764 7.33121,-20.31385 5.91807,-7.12958 14.33642,-10.693 25.2562,-10.693 z"
+       id="path4158"
+       inkscape:connector-curvature="0" />
+    <path
+       style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:medium;line-height:125%;font-family:Aharoni;-inkscape-font-specification:'Aharoni Bold';letter-spacing:0px;word-spacing:0px;fill:#555555;fill-opacity:1;stroke:none;stroke-width:1.08610535px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="m 382.52456,890.15587 c 0.003,70.30838 -0.003,24.18035 -0.003,90.81954 0,6.6033 -0.59563,13.41622 3.76307,15.61754 4.26385,2.15342 9.13913,1.5427 15.13504,1.5427 v 26.10155 c -11.15697,0 -24.37941,0.015 -24.37941,0.015 -7.20157,-0.041 -12.48935,-1.498 -16.71455,-5.7697 -4.19865,-4.245 -5.60495,-6.8293 -5.60495,-18.65813 5.9e-4,-74.60992 0.003,-43.95498 0.003,-109.66848 z"
+       id="path4154-2"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="ccsccssccc" />
+    <path
+       style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:medium;line-height:125%;font-family:Aharoni;-inkscape-font-specification:'Aharoni Bold';letter-spacing:0px;word-spacing:0px;fill:#555555;fill-opacity:1;stroke:none;stroke-width:1.08610535px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="m 34.736575,908.62141 c -0.0035,73.27886 0.0031,15.15213 0.0029,84.60678 0,6.88221 -0.440449,13.62931 -4.983288,15.92361 -4.444009,2.2443 -4.756954,1.9616 -11.006187,1.9616 v 31.8738 c 11.628323,0 18.26979,0.1317 26.796315,-0.1259 19.602541,-0.5922 23.262476,-21.6689 23.262476,-42.1568 -6.04e-4,-77.76213 -0.003,-23.59326 -0.0029,-92.08309 z"
+       id="path4154"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="ccsccsccc" />
+    <path
+       style="opacity:1;fill:#db4a3f;fill-opacity:1;stroke:none;stroke-width:1.08610535"
+       d="m 120.75181,827.45101 c -46.054778,0.0284 -83.944813,35.31847 -86.018384,81.3265 l 0.0045,26.39719 c 0,0 9.937607,-10.55623 15.309878,-14.78865 5.644494,-4.44688 18.705885,-11.60854 18.705885,-11.60854 2.032831,-27.51105 24.412065,-47.85095 51.998201,-47.87488 32.01449,-2.54642 48.74925,16.38062 83.01724,39.22238 0.74197,0.49458 1.57703,0.83825 2.33578,1.33632 l 0.23393,0.12573 c 1.81821,0.82798 3.57126,1.74583 5.4272,2.44738 9.53149,3.60287 19.53868,5.5285 29.79956,5.67422 v 0.01 c 0.18671,0 0.37152,0.0189 0.55567,0.0189 0.0808,-2e-4 0.16025,-0.01 0.24107,-0.01 0.0808,4.3e-4 0.16024,0.01 0.24107,0.01 0.18575,-5.2e-4 0.3701,-0.0189 0.55567,-0.0189 v -0.01 c 12.25904,-0.17394 24.34249,-2.88463 35.49831,-7.96461 l 0.0553,-0.12998 c 35.80124,-23.50113 52.5607,-43.31294 85.26816,-40.71144 27.58616,0.0237 50.19124,21.31383 52.22407,48.82522 h 33.79427 c -2.07397,-46.00798 -39.9634,-82.24838 -86.01836,-82.27684 h -0.01 c -30.16555,0.61291 -56.48778,6.68214 -80.99878,30.66313 -14.55227,12.83765 -22.3834,17.0876 -40.61047,17.17949 -18.22693,-0.0922 -26.89394,-3.92395 -40.61056,-17.17949 -25.34655,-23.56338 -50.83308,-30.05026 -80.99873,-30.66313 z"
+       id="path4228-0-3-7"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="cccsccsccsccccccccccccccccccc" />
+    <path
+       inkscape:connector-curvature="0"
+       id="path4162"
+       style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:medium;line-height:125%;font-family:Aharoni;-inkscape-font-specification:'Aharoni Bold';letter-spacing:0px;word-spacing:0px;fill:#db4a3f;fill-opacity:1;stroke:none;stroke-width:1.08610535px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="M 450,1024.2372 H 416.19424 V 908.62141 H 450 Z"
+       sodipodi:nodetypes="ccccc" />
+    <path
+       style="opacity:1;fill:#555555;fill-opacity:1;stroke:none;stroke-width:1.08610535"
+       d="m 363.97485,827.45157 c -30.16556,0.61293 -56.48987,6.67823 -81.00086,30.65922 -6.38971,5.63678 -11.48614,9.558 -16.73325,12.25848 l -0.004,0.0753 c -8.63812,6.07335 -17.15513,14.54793 -29.43135,20.60567 -10.90535,5.38129 -24.0294,7.48198 -34.87834,7.83867 1.53955,1.04192 1.75743,1.39337 4.22636,2.68275 10.8658,5.67456 23.15801,7.96278 35.41687,8.13686 v 0.01 c 0.1867,0 0.36962,0.0189 0.55392,0.0189 0.0808,-1.9e-4 0.15929,-0.01 0.24012,-0.01 0.0808,4.2e-4 0.15929,0.01 0.24011,0.01 0.18577,-5.3e-4 0.36822,-0.0189 0.55393,-0.0189 v -0.01 c 12.25904,-0.17394 24.34088,-2.88714 35.4967,-7.96716 l 0.0553,-0.12904 c 35.80123,-23.50112 52.5678,-43.31426 85.27524,-40.71275 27.58617,0.0237 48.65617,20.16425 52.22498,47.67563 0,0 12.78384,7.28132 18.95744,12.69563 6.50323,5.7034 14.85193,13.90387 14.85193,13.90387 l -0.0206,-26.5995 c -2.07395,-46.00797 -39.9588,-81.09441 -86.01376,-81.12286 z"
+       id="path4228-0-3"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="ccccscscccccccccccscccc" />
   </g>
 </svg>
