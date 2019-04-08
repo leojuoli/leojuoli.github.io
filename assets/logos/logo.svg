@@ -9,9 +9,9 @@
    xmlns="http://www.w3.org/2000/svg"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
-   width="160"
-   height="50"
-   viewBox="0 0 42.333335 13.229167"
+   width="170"
+   height="60"
+   viewBox="0 0 44.979168 15.875"
    version="1.1"
    id="svg4594"
    inkscape:version="0.92.3 (2405546, 2018-03-11)"
@@ -25,9 +25,9 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="1.4"
-     inkscape:cx="149.01512"
-     inkscape:cy="-22.352942"
+     inkscape:zoom="3.959798"
+     inkscape:cx="131.39218"
+     inkscape:cy="3.1014998"
      inkscape:document-units="mm"
      inkscape:current-layer="layer1"
      showgrid="false"
@@ -53,33 +53,33 @@
      inkscape:label="Camada 1"
      inkscape:groupmode="layer"
      id="layer1"
-     transform="translate(0,-283.77082)">
+     transform="translate(0,-281.12499)">
     <g
-       id="g5760"
-       transform="matrix(0.32651863,0,0,0.32651863,0.03768947,191.94073)">
+       id="g5808"
+       transform="matrix(0.36955627,0,0,0.36955627,-0.21733418,177.60218)">
       <path
-         d="m 16.382694,285.95761 v 25.12037 c 0,2.5633 -1.351559,3.96147 -3.775045,3.96147 -2.6565142,0 -3.7750462,-1.30496 -3.7750462,-4.42753 v -3.26238 h -6.990826 v 3.35559 c 0,3.54202 0.838899,5.73248 2.842936,7.5967 1.957431,1.77101 4.567339,2.70312 7.7831192,2.70312 6.94422,0 10.905688,-3.58862 10.905688,-9.92697 v -25.12037 z"
-         style="font-style:normal;font-variant:normal;font-weight:600;font-stretch:normal;font-size:50.79999924px;line-height:1.25;font-family:'Nachlieli CLM';-inkscape-font-specification:'Nachlieli CLM Semi-Bold';letter-spacing:-1.83885407px;word-spacing:-0.08466667px;fill:#333333;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+         d="m 16.315879,286.49215 v 25.12037 c 0,2.5633 -1.351559,3.96147 -3.775045,3.96147 -2.6565144,0 -3.7750464,-1.30496 -3.7750464,-4.42753 v -3.26238 h -6.990826 v 3.35559 c 0,3.54202 0.838899,5.73248 2.842936,7.5967 1.957431,1.77101 4.567339,2.70312 7.7831194,2.70312 6.94422,0 10.905688,-3.58862 10.905688,-9.92697 v -25.12037 z"
+         style="font-style:normal;font-variant:normal;font-weight:600;font-stretch:normal;font-size:50.79999924px;line-height:1.25;font-family:'Nachlieli CLM';-inkscape-font-specification:'Nachlieli CLM Semi-Bold';letter-spacing:-1.83885407px;word-spacing:-0.08466667px;fill:#53676c;fill-opacity:1;stroke:none;stroke-width:0.26458332"
          id="path5712"
          inkscape:connector-curvature="0" />
       <path
-         d="m 47.467849,282.61674 v 23.02312 c 0,4.10128 -2.097246,6.05872 -6.478163,6.05872 -4.380918,0 -6.478164,-1.95744 -6.478164,-6.05872 v -23.02312 h -6.990828 v 23.02312 c 0,3.82165 1.02532,6.52477 3.308992,8.57541 2.470092,2.23707 6.058715,3.44881 10.16,3.44881 4.101281,0 7.689907,-1.21174 10.159999,-3.44881 2.283669,-2.05064 3.30899,-4.75376 3.30899,-8.57541 v -23.02312 z"
-         style="font-style:normal;font-variant:normal;font-weight:600;font-stretch:normal;font-size:50.79999924px;line-height:1.25;font-family:'Nachlieli CLM';-inkscape-font-specification:'Nachlieli CLM Semi-Bold';letter-spacing:-1.83885407px;word-spacing:-0.08466667px;fill:#333333;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+         d="m 45.663783,283.15128 v 23.02312 c 0,4.10128 -2.097249,6.05872 -6.478164,6.05872 -4.380918,0 -6.478167,-1.95744 -6.478167,-6.05872 v -23.02312 h -6.990825 v 23.02312 c 0,3.82165 1.025321,6.52477 3.308992,8.57541 2.470092,2.23707 6.058715,3.44881 10.16,3.44881 4.101283,0 7.689908,-1.21174 10.16,-3.44881 2.283669,-2.05064 3.308991,-4.75376 3.308991,-8.57541 v -23.02312 z"
+         style="font-style:normal;font-variant:normal;font-weight:600;font-stretch:normal;font-size:50.79999924px;line-height:1.25;font-family:'Nachlieli CLM';-inkscape-font-specification:'Nachlieli CLM Semi-Bold';letter-spacing:-1.83885407px;word-spacing:-0.08466667px;fill:#53676c;fill-opacity:1;stroke:none;stroke-width:0.26458332"
          id="path5714"
          inkscape:connector-curvature="0" />
       <path
-         d="m 73.951123,285.39834 c -4.753761,0 -8.668621,1.58459 -11.558167,4.70716 -3.029358,3.26239 -4.753762,8.01615 -4.753762,13.09615 0,5.08 1.724404,9.88036 4.753762,13.09614 2.936145,3.16918 6.757794,4.70716 11.604765,4.70716 4.846982,0 8.668631,-1.53798 11.604781,-4.70716 2.93614,-3.12257 4.753761,-8.06275 4.753761,-12.86312 0,-5.31302 -1.724411,-10.06678 -4.753761,-13.32917 -2.982761,-3.21578 -6.757799,-4.70716 -11.651379,-4.70716 z m 0.0466,5.96551 c 5.732481,0 9.367711,4.66055 9.367711,12.02422 0,6.94422 -3.775041,11.65138 -9.367711,11.65138 -5.63926,0 -9.3677,-4.70716 -9.3677,-11.8378 0,-7.13065 3.72844,-11.8378 9.3677,-11.8378 z"
-         style="font-style:normal;font-variant:normal;font-weight:600;font-stretch:normal;font-size:50.79999924px;line-height:1.25;font-family:'Nachlieli CLM';-inkscape-font-specification:'Nachlieli CLM Semi-Bold';letter-spacing:-1.83885407px;word-spacing:-0.08466667px;fill:#333333;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+         d="m 70.810707,285.93288 c -4.753761,0 -8.668621,1.58459 -11.558164,4.70716 -3.029358,3.26239 -4.753761,8.01615 -4.753761,13.09615 0,5.08 1.724403,9.88036 4.753761,13.09614 2.936144,3.16918 6.757794,4.70716 11.604765,4.70716 4.846979,0 8.668628,-1.53798 11.604778,-4.70716 2.93614,-3.12257 4.753761,-8.06275 4.753761,-12.86312 0,-5.31302 -1.724411,-10.06678 -4.753761,-13.32917 -2.982759,-3.21578 -6.757799,-4.70716 -11.651379,-4.70716 z m 0.0466,5.96551 c 5.732478,0 9.367708,4.66055 9.367708,12.02422 0,6.94422 -3.775038,11.65138 -9.367708,11.65138 -5.639261,0 -9.3677,-4.70716 -9.3677,-11.8378 0,-7.13065 3.728439,-11.8378 9.3677,-11.8378 z"
+         style="font-style:normal;font-variant:normal;font-weight:600;font-stretch:normal;font-size:50.79999924px;line-height:1.25;font-family:'Nachlieli CLM';-inkscape-font-specification:'Nachlieli CLM Semi-Bold';letter-spacing:-1.83885407px;word-spacing:-0.08466667px;fill:#53676c;fill-opacity:1;stroke:none;stroke-width:0.26458332"
          id="path5716"
          inkscape:connector-curvature="0" />
       <path
-         d="m 100.87023,282.61674 h -6.990828 v 33.97541 h 23.256148 v -5.82569 h -16.26532 z"
-         style="font-style:normal;font-variant:normal;font-weight:600;font-stretch:normal;font-size:50.79999924px;line-height:1.25;font-family:'Nachlieli CLM';-inkscape-font-specification:'Nachlieli CLM Semi-Bold';letter-spacing:-1.83885407px;word-spacing:-0.08466667px;fill:#333333;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+         d="m 95.858927,283.15128 h -6.990831 v 33.97541 H 112.12424 V 311.301 H 95.858927 Z"
+         style="font-style:normal;font-variant:normal;font-weight:600;font-stretch:normal;font-size:50.79999924px;line-height:1.25;font-family:'Nachlieli CLM';-inkscape-font-specification:'Nachlieli CLM Semi-Bold';letter-spacing:-1.83885407px;word-spacing:-0.08466667px;fill:#53676c;fill-opacity:1;stroke:none;stroke-width:0.26458332"
          id="path5718"
          inkscape:connector-curvature="0" />
       <path
-         d="m 126.71487,285.95761 h -6.99082 v 33.97541 h 6.99082 z"
-         style="font-style:normal;font-variant:normal;font-weight:600;font-stretch:normal;font-size:50.79999924px;line-height:1.25;font-family:'Nachlieli CLM';-inkscape-font-specification:'Nachlieli CLM Semi-Bold';letter-spacing:-1.83885407px;word-spacing:-0.08466667px;fill:#333333;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+         d="m 120.90175,286.62578 h -6.99083 v 33.97541 h 6.99083 z"
+         style="font-style:normal;font-variant:normal;font-weight:600;font-stretch:normal;font-size:50.79999924px;line-height:1.25;font-family:'Nachlieli CLM';-inkscape-font-specification:'Nachlieli CLM Semi-Bold';letter-spacing:-1.83885407px;word-spacing:-0.08466667px;fill:#53676c;fill-opacity:1;stroke:none;stroke-width:0.26458332"
          id="path5720"
          inkscape:connector-curvature="0" />
     </g>
